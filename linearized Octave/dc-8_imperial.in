@@ -1,0 +1,172 @@
+# Created by Octave 8.4.0, Sat Mar 09 15:32:23 2024 GMT <unknown@DESKTOP-KHTRNAN>
+
+# name: g
+# type: scalar
+32.17405
+
+
+# name: U0
+# type: scalar
+243.5
+
+
+# name: m
+# type: scalar
+5900
+
+
+# name: Ixx
+# type: scalar
+3090000
+
+
+# name: Iyy
+# type: scalar
+2940000
+
+
+# name: Izz
+# type: scalar
+5580000
+
+
+# name: Ixz
+# type: scalar
+28000
+
+
+# name: Xu
+# type: scalar
+-0.0291
+
+
+# name: Xw
+# type: scalar
+0.0629
+
+
+# name: Xde
+# type: scalar
+0
+
+
+# name: Xdf
+# type: scalar
+0
+
+
+# name: Yv
+# type: scalar
+-0.1113
+
+
+# name: Yda
+# type: scalar
+0
+
+
+# name: Ydr
+# type: scalar
+5.79
+
+
+# name: Zu
+# type: scalar
+-0.2506
+
+
+# name: Zw
+# type: scalar
+-0.6277
+
+
+# name: Zde
+# type: scalar
+-10.19
+
+
+# name: Zdf
+# type: scalar
+0
+
+
+# name: Lb
+# type: scalar
+-1.3350
+
+
+# name: Lp
+# type: scalar
+-0.95
+
+
+# name: Lr
+# type: scalar
+0.612
+
+
+# name: Lda
+# type: scalar
+-0.726
+
+
+# name: Ldr
+# type: scalar
+-0.1848
+
+
+# name: Mu
+# type: scalar
+-7.7e-06
+
+
+# name: Mw
+# type: scalar
+-0.0087
+
+
+# name: Mwdot
+# type: scalar
+-0.001068
+
+
+# name: Mq
+# type: scalar
+-0.7924
+
+
+# name: Mde
+# type: scalar
+-1.35
+
+
+# name: Mdf
+# type: scalar
+0
+
+
+# name: Nb
+# type: scalar
+0.763
+
+
+# name: Np
+# type: scalar
+-0.1192
+
+
+# name: Nr
+# type: scalar
+-0.268
+
+
+# name: Nda
+# type: scalar
+-0.0496
+
+
+# name: Ndr
+# type: scalar
+-0.39
+
+
